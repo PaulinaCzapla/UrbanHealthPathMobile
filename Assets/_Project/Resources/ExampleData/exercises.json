@@ -1,0 +1,1619 @@
+﻿[
+  {
+    "exercise_id": "gliwice.neptun.1a",
+    "displayed_name": "1a",
+    "category": "motorical",
+    "subcategory": "Legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 3,
+        "type": "video",
+        "description": "Maszeruj dookoła fontanny w prawą stronę trzymając dłoń na murku fontanny. Po jednym okrążeniu, zmień kierunek ruchu. Zwracaj uwagę, aby Twoje plecy były cały czas proste, a kroki stawiane były w równej odległości. Dopilnuj aby marsz odbywał się w jednym tempie w trakcie całego okrążenia",
+        "video_file": "video.exercise.CWICZENIE_1A"
+      },
+      {
+        "min_difficulty": 2,
+        "max_difficulty": 3,
+        "type": "video",
+        "description": "Zrób ponowne okrążenie wokół fontanny, tym razem idąc tyłem. Możesz przytrzymywać się brzegu murka fontanny. Zwróć uwagę na nawierzchnię pod stopami.",
+        "video_file": "video.exercise.CWICZENIE_1B"
+      },
+      {
+        "min_difficulty": 3,
+        "max_difficulty": 3,
+        "type": "text",
+        "description": "Oprzyj się o murek za plecami mając Neptuna. Spójrz na kamienice przed Tobą. Wodząc wzrokiem wzdłuż linii dachów od ciemno żółtej kamienicy do ceglanej poruszaj głową. W jedną i w drugą stronę. Pamiętaj, aby Twoja sylwetka i kręgosłup były proste. Nogi lekko rozchylone, aby było łatwiej utrzymać Ci równowagę w trakcie ruchów głowy. W trakcie jednego powtórzenia w prawą i lewą stronę zrób chwilę przerwy, opuść głowę w dół i weź kilka swobodnych oddechów przed kolejnym powtórzeniem."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.2a",
+    "displayed_name": "2a",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Oprzyj się o murek fontanny lub usiądź na ławce. Oddychaj wolno i głęboko nosem. Przymknij oczy i uważnie skoncentruj się na dźwiękach, które docierają do Ciebie na Rynku. Może to szum wody z fontanny Neptuna, a może gruchanie gołębi?"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.game",
+    "displayed_name": "Neptun - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Jest wiele miast, w których znajdują się rzeźby Neptuna - Gdańsk, Bolonia, Berlin, Poznań, Rzym. Która z poniższych fotografii przedstawia Neptuna z gliwickiego rynku",
+        "images": [
+          "image.game.gliwice.Gra_Miejska_Zdjecie_1_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_2_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_3_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_4_1.Fontanna_Neptuna"
+        ],
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.game_explain",
+    "displayed_name": "Neptun - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection_explanation",
+        "images": [
+          "image.game.gliwice.Gra_Miejska_Zdjecie_1_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_2_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_3_1.Fontanna_Neptuna",
+          "image.game.gliwice.Gra_Miejska_Zdjecie_4_1.Fontanna_Neptuna"
+        ],
+        "explanations": [
+          "Pomnik w Gliwicach.",
+          "Pomnik w Gdańsku.",
+          "Pomnik w Poznaniu.",
+          "Pomnik w Bolonii."
+        ]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.wykonanie",
+    "displayed_name": "Neptun - Wykonanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Fontanna została wykonana w XVIII wieku z okazji budowy kanału Kłodnickiego, który połączył Gliwice z morzem. Umożliwiło to transport węgla kamiennego drogą wodną z Zabrza i Gliwic do Odry, a następnie dalej do Morza Bałtyckiego."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.autor",
+    "displayed_name": "Neptun - Autor",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Fontanna została wykonana przez rzeźbiarza Johannesa Nitchego, który wyrzeźbił również figurę św. Jana Nepomucena, która znajduje się  przed kościołem ormiańskim przy ulicy Mikołowskiej w Gliwicach."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.material",
+    "displayed_name": "Neptun - Materiał",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Rzeźba jest wykonana z piaskowca."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.delfin",
+    "displayed_name": "Neptun - Deflin",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Neptun został przedstawiony jako siedzący na delfinie. Zyskał przydomek \"Jerzy z widłami\"."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.cwiczenie",
+    "displayed_name": "2",
+    "category": "motorical",
+    "subcategory": "Arms",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Stań naprzeciwko rzeźby Matki Boskiej na ratuszu. Staraj się naśladować ruch rąk wskazanej postaci. Prawą rękę zegnij w łokciu i przyłóż prawą dłoń do lewego ramienia. Lewą rękę wyprostuj. Teraz wykonaj półobrót i stań tyłem do rzeźby. Wykonaj ruch odwrotny. Zegnij lewą rękę w łokciu, połóż na ramieniu, natomiast prawą wyprostuj. Powtórz całość 4 razy. ",
+        "video_file": "video.exercise.CWICZENIE_2"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.autor",
+    "displayed_name": "Ratusz - Madonna",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Tę barokową rzeźbę wykonał Johanness Nitsche."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.rzeba",
+    "displayed_name": "Ratusz - Rzeźba",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Stoisz przed bardzo ważną osobą dla Gliwiczan. Rzeźba umieszczona na fasadzie ratusza przedstawia Matkę Boską Niepokalanie Poczętą."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.wojna",
+    "displayed_name": "Ratusz - Wojna",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "W trakcie wojny trzydziestoletniej mieszkańcy złożyli ślubowanie Bogu, że jeżeli Matka Boska uratuje miasto, to po wszystkie czasy gliwiczanie z wdzięcznością będą pielgrzymować na Jasną Górę. Następnego dnia wojska odstąpiły bram miasta. Mieszkańcy powędrowali wówczas do Kaplicy Matki Boskiej Częstochowskiej i tak co roku wędrują po dziś dzień. Na pamiątkę tego wydarzenia wizerunek Matki Boskiej znalazł się na sztandarze i w herbie miejskim."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.arkady.1",
+    "displayed_name": "3",
+    "category": "motorical",
+    "subcategory": "arms",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Maszeruj wzdłuż arkad w stronę ulicy Zwycięstwa zataczając okręgi prostą w łokciu ręką z tyłu do przodu po linii łuku poszczególnych arkad (naśladując ruchem ręki kształt łuku arkady). Drugą rękę odchyl w bok dla równowagi.",
+        "video_file": "video.station.arkady.exercise.3a"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.arkady.2",
+    "displayed_name": "3",
+    "category": "sensorial",
+    "subcategory": "lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań na wprost wybranej arkady. Podnieś ręce w górę, wykonując głęboki wdech nosem. Następnie wolno opuść dłonie naśladując łuk arkad i wolno wydychając powietrze nosem. Powtórz ćwiczenie trzy razy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.sens",
+    "displayed_name": "3",
+    "category": "sensorial",
+    "subcategory": "lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań pod rzeźbą patrząc na kamieniczki naprzeciwko. Możesz nieco szerzej rozstawić stopy, skupiając się na podłożu. Gdy poczujesz równowagę skieruj uwagę na oddech. Weź głęboki wdech nosem i wypuść powietrze przez lekko uchylone usta licząc wolno od pięciu do jeden. Wykonaj trzy głębokie wdechy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.arkady.ciekawostka",
+    "displayed_name": "Arkady - Ciekawostka",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Średniowieczna zabudowa Rynku dziś już nie istnieje. Większość obecnych kamienic pochodzi głównie z XIX i XX wieku. Wyglądem swoim luźno nawiązują do stylu klasycystycznego, a charakterystyczne arkady są wyraźnym nawiązaniem do stylu renesansowego. Jest to efekt powojennej odbudowy części gliwickiej starówki, kierowanej przez architekta Franciszka Maurera."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.1",
+    "displayed_name" : "5a",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Przejdź slalomem pomiędzy filarami podcienia w odpowiednim dla siebie tempie. Pamiętaj, żeby kroki stawiane były w równych długościach, a plecy były proste.",
+        "video_file": "video.station.podcienie.exercise.5a"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.2",
+    "displayed_name" : "5b",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Stań pod jedną z arkad. Połóż dłonie na biodra, napnij mięśnie pośladkowe i staraj się odchylić do tyłu naśladując łuk arkady. W ocenie Twoich możliwości pomogą Ci podziały na filarze. Odchylając się powoli policz do trzech i wróć do pozycji wyjściowej. Wykonaj 2 razy.",
+        "video_file": "video.station.podcienie.exercise.5b"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.3",
+    "displayed_name": "5c",
+    "category": "sensorial",
+    "subcategory": "lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań pod arkadami i oprzyj się o filar. Możesz przymknąć oczy, a następnie wykonaj długi wdech i wydech nosem. Przez dłuższą chwilę wyobraź sobie piękny przedmiot, który kiedyś widziałaś/-eś lub posiadasz. Jaki ma kształt? Jakie ma kolory? Jaki jest w dotyku?"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.arkady.game",
+    "displayed_name": "Arkady - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Warto zwrócić uwagę na kamienice na Rynku. Wiele z nich kryje ciekawe historie, tak jak ta pod nr. 25, która znajduje się w narożniku Rynku przy ul. Bytomskiej. Należała do rodziny Troplowitzów, gliwickich Żydów, który zapisali się w historii miasta. Czy wiesz co wynalazł Oscar Troplowitz?",
+        "answers": [
+          "krem Nivea",
+          "perfumy",
+          "plaster opatrunkowy",
+          "pasta do zębów w tubce"
+        ],
+        "image": "image.game.gliwice.Gra_miejska_zdjecie1_3.Arkady",
+        "correct_answers": [0,2,3]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.1",
+    "displayed_name": "6",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Wyobraź sobie, że trzymasz, podobnie, jak Gliwiczanka, w obydwu rękach dzban. Jest on blisko Twojego ciała, po prawej stronie. Teraz musisz nabrać do niego wody z wyobrażonej studni znajdującej się przed Tobą. Nabierz wody poprzez ugięcie kolan i delikatny skłon w przód. Powtórz 3 razy. A następnie wyobraź sobie, że przekładasz dzban na drugą stronę i teraz jest blisko Twojego lewego boku. Powtórz nabieranie wody. Napnij brzuch, gdy podnosisz dzban z wodą, wyobraź sobie jego ciężar. Nie śpiesz się."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.2",
+    "displayed_name": "Rzeźba - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Stoisz na narożniku Rynku przy ulicy Plebańskiej przed ważną dla gliwiczan rzeźbą. Czy pamiętasz kogo przedstawia i jak jest potocznie nazywana? Zaznacz poprawną odpowiedź.",
+        "answers": [
+          "Duńska kobieta",
+          "Gliwiczanka/gliwicka baba",
+          "Matka Boska",
+          "Wandzia"
+        ],
+        "image": "image.game.gliwice.Gra_miejska_Zdjecie_6_Rzezba_kobiety_broniacej_Gliwic",
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.4a",
+    "displayed_name": "4a",
+    "category": "motorical",
+    "subcategory": "Legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 3,
+        "type": "video",
+        "description": "Zatrzymaj się przed kamienicą Rynek 18. Znajdź wzrokiem budynek z kolumnami. Policz je, a następnie maszeruj wzdłuż budynku szybkim krokiem defiladowym. Wykonaj tyle szybkich kroków ile kolumn naliczyłeś.",
+        "video_file": "video.station.pilastry.exercise.4a"
+      },
+      {
+        "min_difficulty": 2,
+        "max_difficulty": 3,
+        "type": "video",
+        "description": "Wykonaj tyle szybkich kroków ile kolumn naliczyłeś, a do kroku defiladowego dołącz ruch prostymi rękoma do przodu i do tyłu.",
+        "video_file": "video.station.pilastry.exercise.4b"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.4b",
+    "displayed_name": "4b",
+    "category": "sensorial",
+    "subcategory": "lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań przed wejściem do kamienicy. Spleć ręce z przodu i wolno podnoś je w górę. Wykonaj w tym czasie długi wdech nosem podnosząc ręce najwyżej jak potrafisz. Powoli opuść ręce z przodu wykonując wydech nosem. Powtórz tyle razy, ile to dla Ciebie wygodne."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.game",
+    "displayed_name": "Pilastry - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Stań naprzeciwko budynku i postaraj się zliczyć wszystkie pilastry. Następnie zaznacz jedną prawidłową odpowiedź.",
+        "answers": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "image": "image.game.gliwice.pilastry.gra.miejska",
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.1",
+    "displayed_name" : "7a",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Stań na chodniku naprzeciwko drzwi na Plebańskiej 4. Pozycja początkowa: barki w dół, łopatki ściągnięte,  plecy proste Pochyl głowę w lewą stronę zbliżając lewe ucho do ramienia. Następnie poruszaj głową w płaszczyźnie czołowej w prawą stronę naśladując kształt łuku i zbliż prawe ucho do prawego ramienia. Wykonaj ćwiczenie w wolnym rytmie dwukrotnie.",
+        "video_file": "video.station.plebaska.exercise.7a"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.2",
+    "displayed_name" : "7a",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Stań we wnęce naprzeciwko drzwi na Plebańskiej 6.Wykonuj ruch głową wodząc wzrokiem od podłoża z prawej strony przez całą linię obramowania drzwi po szczyt arkady, a następnie w dół w lewą stronę do samego dołu.",
+        "video_file": "video.station.plebaska.exercise.7b"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.game",
+    "displayed_name": "Plebańska - Gra",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Ulica Plebańska, na którą właśnie wchodzisz jest łącznikiem pomiędzy Rynkiem, a Placem Wszystkich Świętych. Czy pamiętasz jaką nazwę nosiła w czasach, gdy Gliwice należały do Niemiec?",
+        "answers": [
+          "Brunnenstraße",
+          "Löwenstraße",
+          "Wilhelmstraße",
+          "Pfarrstraße"
+        ],
+        "image": "image.game.gliwice.Gra_miejska_zdjecie_7.Plebanska.jpg",
+        "correct_answers": [3]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.kamienica",
+    "displayed_name": "Pilastry - Kamienica",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Kamienica z numerem 18 to klasycystyczny budynek z pierwszej połowy 19 wieku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.hotel",
+    "displayed_name": "Pilastry - Hotel",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Dawniej znajdował się tam najstarszy i najbardziej prestiżowy gliwicki hotel “Deutsches Haus”."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.dyrekcja",
+    "displayed_name": "Pilastry - ród Schaffgotschów",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Później w kamienicy mieściła się dyrekcja zarządu dóbr koncernu należącego do rodu Schaffgotschów."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.rzezba",
+    "displayed_name": "Róg - Rzeźba",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Rzeźba, którą zobaczysz na narożniku kamienicy, upamiętnia bohaterskie kobiety, które broniły miasta podczas wojny trzydziestoletniej, wylewając na wojska duńskie gorącą kaszę."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.gliwiczanka",
+    "displayed_name": "Róg - Gliwiczanka",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Potocznie zwaną “Gliwiczankę” wyrzeźbiła Wanda Demczyn-Wiśniewska. Rzeźba została odsłonięta w 1956 roku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.niemiecka_nazwa",
+    "displayed_name": "Plebańska - dawna nazwa",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Obecnie ulica Plebańska w niemieckich Gliwicach nazywała się Pfarrstrasse, czyli w wolnym tłumaczeniu ulica parafialna."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.polaczenie",
+    "displayed_name": "Plebańska - połączenie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Ulica łączy Rynek z Placem Wszystkich Świętych."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.plebania",
+    "displayed_name": "Plebańska - plebania",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Kiedyś jej najważniejszymi punktami była plebania Kościoła Wszystkich Świętych oraz najstarsza gliwicka szkoła."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.piwo",
+    "displayed_name": "Plebańska - piekarnia",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Dawniej mieścił się tutaj skład piwa, restauracja i piekarnia."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.mieszkancy",
+    "displayed_name": "Plebańska - mieszkańcy",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Mieszkańcami ulicy Plebańskiej byli Bernhard Bermann - właściciel składu piwa oraz Richard Koban - budowniczy kościołów."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.restauracja",
+    "displayed_name": "Plebańska - restauracja",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "W 2014 roku budynek pod numerem 3 został odrestaurowany."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.neptun.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Od wody rozpoczyna się życie! Na gliwickim Rynku opiekuje nią bóg morskich głębin. Fontanna jest otoczona niewysokim murkiem z piaskowca, można ją bezpiecznie obejść wokół obserwując Neptuna na tle Ratusza lub kolorowych kamieniczek w Rynku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Na Rynku nie mogło zabraknąć postaci, które pomagały gliwiczanom bronić swojego miasta i życia. Rzeźba Madonny patrzy na południowo-zachodnią część miasta, wznosząc oczy ponad dachy. A Ty? Co zobaczysz, gdy odwrócisz się w kierunku, gdzie patrzy Madonna?"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.pilastry.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Elewacja kamienicy pod 18. to dojrzały styl klasycystyczny, na podobieństwo rzymskich fasad. Mamy tu wyraźny rytm pilastrów – rzędu płaskich kolumn, zakończonych jońskimi głowicami. Czy możesz policzyć, ile ich jest? Neptun na szczęście nie widzi, że to trochę jak kurtyna – z tyłu widoczna jest płaska elewacja współczesnej kamienicy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.arkady.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Gliwickie arkady pozwalają mieszkańcom na swobodne przechodzenie wzdłuż Rynku dając cień w upalne letnie dni, a w dni deszczowe dając parasol – utworzony ze sklepień w podcieniach. Harmonijne łuki arkad otwierają szeroko widok z podcieni na przestrzeń Rynku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Na jednym z filarów arkad został umieszczony napis: GALERIA SZTUKI. Nasz wzrok musi powędrować w górę po kilku dekoracyjnych rowkach czyli boniowaniach, aby go dojrzeć na szczycie filara. To tak jak przy budowaniu swojej coraz lepszej formy – stopniowo i krok po kroku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "W narożu ulic Plebańskiej i Krótkiej znajdujemy rzeźbę Gliwiczanki – to hołd dla odważnych kobiet broniących miasta przed wojskami generała Mansfelda podczas Wojny Trzydziestoletniej na początku XVII wieku. Gliwice zostały ocalone dzięki kobiecemu sprytowi, dzielności i … kaszy jaglanej! Kobiecy spryt oraz kasza jaglana mogą ratować nas również dziś."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.intro",
+    "displayed_name": "",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Ulica Plebańska to jedna z najstarszych ulic gliwickiej Starówki. Gliwiczanie podążali tędy do kościoła Wszystkich Świętych, mijając po drodze skład piwa, restaurację i piekarnię. A dziś może warto się tu zatrzymać, aby podziwiać portale przy numerze 4 i 6 oraz poćwiczyć?"     }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.rog.3",
+    "displayed_name": "3",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań wygodnie i połóż jedną rękę na brzuchu. Wykonaj wdech nosem i równocześnie postaraj się wypełnić cały brzuch powietrzem jakbyś napełniał/-a dzban wodą. Robiąc długi wydech wciągnij brzuch opróżniając go z powietrza. Powtórz ćwiczenie 5 razy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.plebanska.3",
+    "displayed_name": "3",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań przy chodniku naprzeciwko wejścia do budynku Plebańska 6. Wykonaj głęboki wdech nosem i unieś ręce do góry. Następnie opuszczając ręce bokiem do dołu po linii łuku naśladującej przeciwległy portal wykonaj długi wydech nosem."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.ratusz.game",
+    "displayed_name": "Ratusz - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Czy rozpoznajesz na jakim budynku znajduje się wizerunek Matki Boskiej przedstawiony na herbie? Wybierz jedną poprawną odpowiedź.",
+        "answers": [
+          "Okno Willi Caro",
+          "Czerwona Chemia",
+          "Ratusz",
+          "Kościół Wszystkich Świętych"
+        ],
+        "image": "image.game.gliwice.Gra_Miejska_Zdjecie3_Ratusz_2.Rzezba_Madonny",
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.boniowanie",
+    "displayed_name": "Podcienie - Boniowanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Boniowanie to stara technika dekorowania krawędzi kamienia stosowanego na elewacji budynku. Technika ta stosowana była już w kamiennych budowlach starożytnego Rzymu, natomiast w okresie renesansu spoiny kamieni były zastępowane profilowaniem czyli tzw. boniami - rowkami w tynku naśladującymi spoiny kamieni."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.wystepowanie",
+    "displayed_name": "Podcienie - Boniowanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Boniowanie spotykamy najczęściej na elewacjach, w cokołach budynków lub w ich narożnikach. Na gliwickim Rynku dostrzec można je przy arkadach prowadzących do Galerii Sztuki."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.game",
+    "displayed_name": "Galeria - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Boniowanie można zaobserwować na wielu budynkach gliwickiej Starówki. Które z poniższych zdjęć przedstawia boniowanie?",
+        "images": [
+          "image.game.Gra_miejska_zdjęcieA_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieB_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieC_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieD_5.Galeria_sztuki"
+        ],
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.podcienie.game_explain",
+    "displayed_name": "Galeria - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection_explanation",
+        "images": [
+          "image.game.Gra_miejska_zdjęcieA_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieB_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieC_5.Galeria_sztuki",
+          "image.game.Gra_miejska_zdjęcieD_5.Galeria_sztuki"
+        ],
+        "explanations": [
+          "Zdjęcie boniowania.",
+          "Zdjęcie cegły licowej.",
+          "Zdjęcie mozaiki.",
+          "Zdjęcie kruszonego szkła."
+        ]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.synagoga.1",
+    "displayed_name": "1",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Ćwicz swoją uważność! Wchodząc w uliczkę Średnią z Placu Inwalidów znajdź gwiazdę, przez którą widać wpierw kamieniczki, potem korony drzew, a następnie niebo"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.synagoga.powstanie",
+    "displayed_name": "Synagoga - Powstanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Gliwicka Synagoga wybudowana została w latach 1859 - 1812 według projektu Salomona Lubowskiego i Louisa Troplowitza. To właśnie syn Troplowitza był twórca słynnego kremu Nivea."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.synagoga.noc",
+    "displayed_name": "Synagoga - Noc Krystałowa",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Podczas „Nocy Kryształowej” (z 9 na 10 listopada 1938 r.) naziści spalili synagogę."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.synagoga.upamiętnienie",
+    "displayed_name": "Synagoga - Upamietnienie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Od 2003 r. miejsce synagogi upamiętniają dwie tablice pamiątkowe autorstwa Krzysztofa Nitscha. Na górnej ozdobnej tablicy widnieje napis w języku polskim i hebrajskim: „W tym miejscu w latach 1861–1938 stała synagoga”"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.synagoga.game",
+    "displayed_name": "Synagoga - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Spójrz na pusty plac. Czy wiesz, że kiedyś znajdowała się tutaj żydowska synagoga? Czy wiesz jaki element upamiętnia dawny obiekt modlitw? Zaznacz prawidłową fotografię.",
+        "images": [
+          "image.game.gliwice.Gra_miejska_zdjęcie1_8.Synagoga",
+          "image.station.gliwice.synagoga.icon",
+          "image.game.gliwice.Gra_miejska_zdjęcie3_8.Synagoga",
+          "image.game.Gra_miejska_zdjęcieD_5.Galeria_sztuki"
+        ],
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.boniowanie.1",
+    "displayed_name": "1",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Ćwicz swoją uważność! Wchodząc w uliczkę Średnią z Placu Inwalidów znajdź gwiazdę, przez którą widać wpierw kamieniczki, potem korony drzew, a następnie niebo."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.1",
+    "displayed_name": "1",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Usiądź na ławeczce za budynkiem muzeum. Unieś lewą dłoń i zamknij lewą dziurkę nosa i wdychaj powietrze prawą dziurką. Następnie zamknij prawą dziurkę i powoli wydychaj powietrze lewą dziurką nosa. Wykonaj trzy takie wdechy i wydechy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.2",
+    "displayed_name": "2",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Powtórz serię wdechów i wydechów używając drugiej ręki. Unieś prawą dłoń i zamknij prawą dziurkę nosa i wdychaj powietrze lewą dziurką. Następnie zamknij lewą dziurkę i powoli wydychaj powietrze prawą dziurką nosa. Wykonaj trzy takie wdechy i wydechy"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.3",
+    "displayed_name": "3",
+    "category": "sensorial",
+    "subcategory": "Lungs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Wykonaj trzy głębokie wdechy i wydechy oboma nozdrzami."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.game",
+    "displayed_name": "Willa Caro - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Dokładnie przyjrzyj się elewacji obiektu przed którym stoisz. Zaznacz elementy które zauważyłeś na Willi Caro. Dwie odpowiedzi są poprawne.",
+        "images": [
+          "image.game.gliwice.willa.Gra_miejska_zdjęcie1_10.11.WILLA_Caro",
+          "image.game.gliwice.willa.Gra_miejska_zdjęcie2_10.11.WILLA_Caro",
+          "image.game.gliwice.willa.Gra_miejska_zdjęcie3_10.11.WILLA_Caro",
+          "image.game.gliwice.willa.Gra_miejska_zdjęcie4_10.11.WILLA_Caro"
+        ],
+        "correct_answers": [1,3]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.budowa",
+    "displayed_name": "Willa - Budowa",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Willa wybudowana została w latach 1882-1885 przypuszczalnie wg projektu Salomona Lubowskiego dla gliwickiego przedsiębiorcy Oscara Caro."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.wykonanie",
+    "displayed_name": "Willa - Wykonanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Jest to obiekt murowany z cegły, tynkowany, neorenesansowy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.willa.muzeum",
+    "displayed_name": "Willa - Muzeum",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Zabytek dostępny dla zwiedzających. W obiekcie mieści się oddział Muzeum w Gliwicach."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.cwiczenie",
+    "displayed_name": "2",
+    "category": "motorical",
+    "subcategory": "Arms",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "text",
+        "description": "Stań tyłem do murku, a przodem do kamienicy. Wyprostuj ramiona do przodu, usiądź na murku i bez pomocy rąk wstań. Pamiętaj, aby w trakcie wstawania nie odrywać pięt od podłoża, wtedy Twoja równowaga będzie bardziej stabilna. Kolana utrzymuj w jednakowej odległości w trakcie całego zakresu ruchu. Twoje plecy muszą być proste, aby uniknąć zachwiania. Wykonaj ćwiczenie 3 razy, odpocznij i powtórz serię raz jeszcze."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.autor",
+    "displayed_name": "Lew - Autor",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Autorem lwa jest śląski rzeźbiarz Teodor Kalide."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.otwarcie",
+    "displayed_name": "Lew - Otwarcie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Początkowo rzeźba znajdowała się na gliwickim placu hutniczym. Dopiero za sprawą króla pruskiego Fryderyka Wilhelma IV w 1849 roku nastąpiło uroczyste otwarcie pomnika przeniesionego na cmentarz 65 żołnierzy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.huta",
+    "displayed_name": "Lew - Huta",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Zarówno niektóre elementy pomnika jak i sama rzeźba lwa były dziełami odlanymi w Hucie gliwickiej."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.przeniesienie",
+    "displayed_name": "Lew - Przeniesienie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "W 1890 roku pomnik przeniesiono w nowe miejsce położone w południowo-wschodniej części późniejszego Parku Miejskiego."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.wojna",
+    "displayed_name": "Lew - Wojna",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Po II wojnie światowej pomnik został zniszczony, a sam lew trafił na działki zieleni miejskiej, by zniknąć stamtąd w latach sześćdziesiątych. W 1934 roku rzeźbę przeniesiono w okolice Willi Caro i to właśnie w tym miejscu lew czuwa w Gliwicach do dnia dzisiejszego."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.lew.game",
+    "displayed_name": "Lew - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Spośród poniższych fotografii wybierz tę, na której znajduje się “Lew czuwający” przy Willi Caro.",
+        "images": [
+          "image.game.gliwice.lew.Gra_miejska_zdjęcie1_12.Lew_czuwający",
+          "image.game.gliwice.lew.Gra_miejska_zdjęcie2_12.Lew_czuwający",
+          "image.game.gliwice.lew.Gra_miejska_zdjęcie3_12.Lew_czuwający",
+          "image.game.gliwice.lew.Gra_miejska_zdjęcie4_12.Lew_czuwający"
+        ],
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.motorical",
+    "displayed_name": "1",
+    "category": "motorical",
+    "subcategory": "Legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "Stań prosto, zbierz łopatki, barki opuść w dół, wciągnij brzuch, weź głęboki wdech, jednocześnie poprowadź ramiona bokiem do góry naśladując linię trójkątnego zwieńczenia portalu. Z wydechem opuść ramiona w dół.",
+        "video_file": "video.exercise.CWICZENIE_13A"
+      },
+      {
+        "min_difficulty": 2,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "Następnie zrób półprzysiad wykonując wydech, a z wdechem wróć do pozycji wyjściowej jednocześnie prowadząc ramiona bokiem aż do góry, jak najwyżej. Opuść ramiona robiąc długi wydech.",
+        "video_file": "video.exercise.CWICZENIE_13B"
+      },
+      {
+        "min_difficulty": 3,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "Zwróć uwagę na rozetę umieszczoną nad drzwiami. Zrób krążenie głową w prawą i lewą stroną wyobrażając sobie, że trzymasz w ustach ołówek, którym rysujesz kształt rozety. Oddychaj spokojnie i miarowo. Ruch wykonuj powoli po jak największym okręgu.",
+        "video_file": "video.exercise.CWICZENIE_13C"
+      },
+      {
+        "min_difficulty": 4,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "Po dwóch strona rozety znajdują się dwa niewielkie otwory okienne. Niech będą one inspiracją do ćwiczenia nóg. Patrząc się na prawe okno unieś do boku delikatnie zgiętą prawą nogę. Utrzymaj równowagę z uniesioną nogą około 3 sekundy, a następnie patrząc na lewe okno, unieś analogicznie lewą nogę. Powtórz 3 razy.",
+        "video_file": "video.exercise.CWICZENIE_13D"
+      },
+      {
+        "min_difficulty": 5,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "W pozycji stojącej unieś bokiem kolano lewe do góry jak najwyżej potrafisz. Wykonuj ruch powoli starając się nie tracić równowagi. Oddychaj równo i swobodnie. Pamiętaj o prostych plecach i ściągniętych łopatkach. Utrzymaj uniesione kolano w górze kilka sekund i wróć do pozycji wyjściowej. Następnie unieś ponownie lewe kolano, ale tym razem do przodu. Utrzymaj tą pozycję również kilka sekund i wróć do pozycji wyjściowej. Odpocznij chwile i powtórz to samo ćwiczenie na kolano prawe.",
+        "video_file": "video.exercise.CWICZENIE_13E"
+      },
+      {
+        "min_difficulty": 6,
+        "max_difficulty": 6,
+        "type": "video",
+        "description": "Jeszcze wyżej zobaczysz dwa ustawione blisko siebie prostokątne okna. Z wdechem wzbij się na palce unosząc prawe ramię odpowiadające P oknu. Z wydechem wróć do pozycji wyjściowej. Z kolejnym wdechem unieś L ramię odpowiadające L oknu. Popatrz jeszcze wyżej, zobaczysz dwie, małe rozetki. Wykonaj dwa okrążenia do tyłu barkami. Ruch wykonuj symetrycznie po jak największych okręgach.",
+        "video_file": "video.exercise.CWICZENIE_13F"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.budowa",
+    "displayed_name": "Poczta - Budowa",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Budynek został wybudowany w 1905 r. w stylu neogotyckim i znajduje się w wojewódzkim rejestrze zabytków."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.wyglad",
+    "displayed_name": "Poczta - Wyglad",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Od momentu powstania nie zmieniono wyglądu zewnętrznego budynku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.wnetrze",
+    "displayed_name": "Poczta - Wnętrze",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "We wnętrzu do dziś zachowało się oryginalne oświetlenie hali głównej, ale też wystrój klatek schodowych i sali na najwyższej kondygnacji."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.rozwoj",
+    "displayed_name": "Poczta - Rozwój",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Rozwój poczty następował bardzo szybko, wprowadzano tam dużo nowości takich jak maszyna do wydawania znaczków czy poczta lotnicza."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.cegla",
+    "displayed_name": "Poczta - cegła",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Poczta jest obiektem murowanym z cegły klinkierowej oraz cegły polewanej jak tort barwną glazurą w kolorze zielonym."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.poczta.game",
+    "displayed_name": "Poczta - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Zaznacz fotografię na której twoim zdaniem znajduje się boniowanie.",
+        "images": [
+          "image.game.gliwice.poczta.Gra_miejska_Zdjęcie1.Poczta",
+          "image.game.gliwice.poczta.Gra_miejska_Zdjęcie2.Poczta",
+          "image.game.gliwice.poczta.Gra_miejska_Zdjęcie3.Poczta",
+          "image.game.gliwice.poczta.Gra_miejska_Zdjęcie4.Poczta"
+        ],
+        "correct_answers": [3]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.herby.kamienica",
+    "displayed_name": "Herby - Kamienica",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Narożna kamienica przy ulicy Jana Matejki posiada bogatą w zdobienia i ciekawą kolorystycznie elewację."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.herby.plaskorzezba",
+    "displayed_name": "Herby",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Możesz się doszukać płaskorzeźb z herbami - jest to albo polski herb szlachecki albo cechowe godło malarzy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.herby.game",
+    "displayed_name": "Neptun - Gra Miejska",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "image_selection",
+        "question": "Kamienica nr 8 na rogu ulicy Jana Matejki przykuwa uwagę swoimi dekoracjami. Pomiędzy oknami, w wydzielonych pasach umieszczono płaskorzeźby, które przedstawiają herby. Spośród poniższych fotografii wybierz tę, na której sfotografowano herb znajdujący się na kamienicy.",
+        "images": [
+          "image.game.gliwice.herby.Gra_miejska_Zdjęcie1.Kamienica",
+          "image.game.gliwice.herby.Gra_miejska_Zdjęcie2.Kamienica",
+          "image.game.gliwice.herby.Gra_miejska_Zdjęcie3.Kamienica",
+          "image.game.gliwice.herby.Gra_miejska_Zdjęcie4.Kamienica"
+        ],
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.brama.brama",
+    "displayed_name": "Brama",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Biała Brama ( Brama Bytomska) była częścią średniowiecznych fortyfikacji Gliwic."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.brama.zburzenie",
+    "displayed_name": "Brama - Zburzenie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Została zburzona w XIX wieku, a fragmenty jej fundamentów odkryto kilka lat temu podczas remontu nawierzchni Starówki."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.brama.ulice",
+    "displayed_name": "Brama - Ulice",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Na placu przed Białą Bramą zbiegały się ulice: Bytomska, Jana Matejki oraz obecna ulica Białej Bramy."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.brama.czterokondygnacyjna",
+    "displayed_name": "Brama - Czterokondygnacyjna",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Biała Brama była czterokondygnacyjną budowlą z wieżą oraz przejazdem bramnym o szerokości około 3 metrów."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.brama.game",
+    "displayed_name": "Arkady - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Czy wiesz jak inaczej nazywana jest Biała Brama będąca częścią gliwickiej fortyfikacji?",
+        "answers": [
+          "Bytomska",
+          "Raciborska",
+          "Czarna",
+          "Szara"
+        ],
+        "image": "image.game.gliwice.Gra_miejska_zdjecie1_3.Arkady",
+        "correct_answers": [0]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.zamek.powstanie",
+    "displayed_name": "Zamek - Powstanie",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Zamek piastowski powstał wraz z murami miejskimi w połowie XIV wieku."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.zamek.zmiany",
+    "displayed_name": "Zamek - Zmiany",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Obiekt przeszedł wiele zmian i przebudów na przestrzeni lat."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.zamek.muzeum",
+    "displayed_name": "Zamek - Muzeum",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Obecnie Zamek jest siedzibą muzeum, a konkretnie działu archeologii i historii."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.zamek.game",
+    "displayed_name": "Zamek - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Przed Zamkiem Piastowskim stoi pomnik jednej z wymienionych niżej osób. Czy wiesz której?",
+        "answers": [
+          "Henryk Walezy",
+          "Bolesław Chrobry",
+          "Stefan Batory",
+          "Kazimierz Wielki"
+        ],
+        "image": "image.game.gliwice.zamek.Gra_miejska_Zdjęcie.Zamek_Piastowski",
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.boniowanie.kamienica",
+    "displayed_name": "Boniowanie - Kamienica",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Narożna kamienica przy ulicy Dolnych Wałów 13a jest obiektem ujętym w gminnej ewidencji zabytków jako kamienica mieszkalna w obrębie starego miasta. Posiada ona ozdobne boniowanie na cokole, wykonane z zielonych odłamków szklanych."
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.boniowanie.game",
+    "displayed_name": "Boniowanie - Gra Miejska",
+    "category": "game",
+    "subcategory": "eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "answer_selection",
+        "question": "Co widzisz na zdjęciu?",
+        "answers": [
+          "Szkło",
+          "Kamień",
+          "Cegła",
+          "Mozaika"
+        ],
+        "image": "image.game.Gra_miejska_zdjęcieC_5.Galeria_sztuki",
+        "correct_answers": [3]
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.test.1",
+    "displayed_name" : "Przysiady przy oparciu krzesła/stołu itp.",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Należy wykonywać przysiady przez 0,5 minuty. Staraj się zejść jak najniżej. Pamiętaj, żeby w trakcie wykonywania ćwiczeń nie wstrzymywać oddechu. Oddech powinien być miarowy i spokojny. W trakcie wykonywania ćwiczenia postaraj się nie garbić. Napnij brzuch, wyprostuj plecy.",
+        "video_file": "video.test.test_1"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.test.2",
+    "displayed_name" : "Półprzysiady z wyprostowanymi rękami.",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Wykonuj je przez 0,5 minuty. Ustaw stopy w rozkroku na szerokość bioder. Plecy powinny być wyprostowane, brzuch napięty. Nie wysuwaj głowy do przodu. W trakcie przysiadu uważaj na kolana, żeby nie kierowały się do środka, co jest częstym błędem.",
+        "video_file": "video.test.test_2"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.test.3",
+    "displayed_name" : "Unoszenie butelki ponad głowę.",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Wykonuj ćwiczenie przez 0,5 minuty-góra-dół. Najpierw przyjmij prawidłową pozycję. Stopy w lekkim rozkroku na szerokość bioder, barki opuszczone, łopatki zebrane, brzuch i pośladki napięte. Głowa delikatnie cofnięta do tyłu. Dopiero teraz zacznij unoszenie butelki. Wraz z uniesieniem butelki zrób wydech, z opuszczeniem wdech.",
+        "video_file": "video.test.test_3"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.test.4",
+    "displayed_name" : "Naprzemienne krążenia ramion.",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Przyjmij prawidłową postawę, jak w poprzednim ćwiczeniu. Najpierw zacznij wykonywać okrążenia prawą ręką do tyłu. Przerwij. Teraz wykonaj kilka okrążeń lewą ręką do przodu. Przerwij. Teraz ponownie zacznij wykonywać wolne okrążenia prawą ręką do tyłu i jednocześnie postaraj się dołączyć okrążenia lewej ręki do przodu. Po kilku okrążeniach zmień stronę. Lewa do tyłu, a prawa do przodu.",
+        "video_file": "video.test.test_4"
+      }
+    ]
+  },
+  {
+    "exercise_id": "gliwice.test.5",
+    "displayed_name" : "Przekładanie kija bez zginania ramion w łokciach.",
+    "category": "motorical",
+    "subcategory": "legs",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "video",
+        "description": "Przyjmij prawidłową pozycję. Możesz wykorzystać miotłę lub mop. Oddychaj spokojnie i miarowo. Jeśli nie jesteś w stanie przenieść kija całkowicie za siebie, nie przejmuj się. Zrób ćwiczenie do takiego momentu, w którym możesz. Wykonując ćwiczenie regularnie, zobaczysz, jak polepsza się Twoja ruchomość.",
+        "video_file": "video.test.test_5"
+      }
+    ]
+  },
+  {
+    "exercise_id": "test.trudnosc",
+    "displayed_name": "Informacja",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Jeśli jakieś ćwiczenie sprawia Ci trudność, jest to informacja, że należy wzmocnić mięśnie i popracować nad ruchomością lub/i koordynacją. Możesz to zrobić korzystając z miejskiej ścieżki zdrowia. Regularna aktywność fizyczna przynosi najlepsze efekty."
+      }
+    ]
+  },
+  {
+    "exercise_id": "test.bol",
+    "displayed_name": "Informacja",
+    "category": "Game",
+    "subcategory": "Eyes",
+    "levels": [
+      {
+        "min_difficulty": 1,
+        "max_difficulty": 5,
+        "type": "historical_fact",
+        "fact": "Jeśli w trakcie wykonywania ćwiczeń odczuwasz dolegliwości bólowe skonsultuj się z fizjoterapeutą, który wykona szczegółowe testy diagnostyczne i wskaże możliwości wyeliminowania bólu, jak również poprawy samopoczucia."
+      }
+    ]
+  }
+]

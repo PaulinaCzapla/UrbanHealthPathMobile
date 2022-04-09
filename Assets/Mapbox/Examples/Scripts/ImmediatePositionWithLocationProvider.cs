@@ -18,7 +18,6 @@
 				{
 					_locationProvider = LocationProviderFactory.Instance.DefaultLocationProvider;
 				}
-
 				return _locationProvider;
 			}
 		}

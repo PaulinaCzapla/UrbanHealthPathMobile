@@ -1,0 +1,48 @@
+﻿[
+  {
+    "path_id": "gliwice.rynek",
+    "path_icon": "image.path.gliwice.centrum.icon",
+    "displayed_name": "Gliwice - Rynek",
+    "approximate_distance_in_meters": 180,
+    "is_cyclic": false,
+    "map_url": "mapbox://styles/matadam667/ckxn3iyihbqu214pbijxv32f1",
+    "waypoints": [
+      "gliwice.rynek.neptun",
+      "gliwice.rynek.ratusz",
+      "gliwice.rynek.arkady",
+      "gliwice.rynek.pilastry",
+      "gliwice.rynek.podcienie",
+      "gliwice.rynek.rog",
+      "gliwice.rynek.plebanska"
+    ],
+    "preview_image": "image.preview.gliwice.rynek",
+    "icon": "image.icon.rynek"
+  },
+  {
+    "path_id": "gliwice.centrum",
+    "path_icon": "image.station.gliwice.poczta.icon",
+    "displayed_name": "Gliwice - Centrum",
+    "approximate_distance_in_meters": 1100,
+    "is_cyclic": false,
+    "map_url": "mapbox://styles/matadam667/ckzx6r3wh000y14pbh52ycfa5",
+    "waypoints": [
+      "gliwice.rynek.neptun",
+      "gliwice.rynek.ratusz",
+      "gliwice.rynek.arkady",
+      "gliwice.rynek.pilastry",
+      "gliwice.rynek.podcienie",
+      "gliwice.rynek.rog",
+      "gliwice.rynek.plebanska",
+      "gliwice.synagoga.synagoga",
+      "gliwice.synagoga.boniowanie",
+      "gliwice.caro.willa",
+      "gliwice.caro.lew",
+      "gliwice.poczta.poczta",
+      "gliwice.biala.herby",
+      "gliwice.biala.brama",
+      "gliwice.zamek.zamek"
+    ],
+    "preview_image": "image.preview.gliwice.rynek",
+    "icon": "image.station.gliwice.poczta.icon"
+  }
+]

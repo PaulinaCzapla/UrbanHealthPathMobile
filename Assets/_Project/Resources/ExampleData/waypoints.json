@@ -1,0 +1,320 @@
+﻿[
+  {
+    "waypoint_id": "gliwice.rynek.neptun",
+    "coordinates": [
+      50.29416,
+      18.66541
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.neptun.1a",
+      "gliwice.neptun.2a",
+      "gliwice.neptun.intro",
+      "gliwice.neptun.wykonanie",
+      "gliwice.neptun.autor",
+      "gliwice.neptun.material",
+      "gliwice.neptun.delfin",
+      "gliwice.neptun.game",
+      "gliwice.neptun.game_explain"
+    ],
+    "displayed_name": "Rynek Fontanna Neptuna",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.neptun.icon", 
+    "introduction_audio": "audio.introduction.neptun"
+  },
+  {
+    "waypoint_id": "gliwice.rynek.ratusz",
+    "coordinates": [
+      50.29387,
+      18.66577
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.ratusz.cwiczenie",
+      "gliwice.ratusz.sens",
+      "gliwice.ratusz.intro",
+      "gliwice.ratusz.autor",
+      "gliwice.ratusz.rzeba",
+      "gliwice.ratusz.wojna",
+      "gliwice.ratusz.game"
+    ],
+    "displayed_name": "Rynek Rzeźba Madonny", 
+    "navigation_audio": "",
+    "image": "image.station.gliwice.ratusz.icon", 
+    "introduction_audio": "audio.introduction.ratusz"
+  },
+  {
+    "waypoint_id": "gliwice.rynek.arkady",
+    "coordinates": [
+      50.29395,
+      18.66597
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.arkady.1",
+      "gliwice.arkady.2",
+      "gliwice.arkady.intro",
+      "gliwice.arkady.ciekawostka",
+      "gliwice.arkady.game"
+    ],
+    "displayed_name": "Rynek Arkady",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.arkady.icon",
+    "introduction_audio": "audio.introduction.arkady"
+  },
+  {
+    "waypoint_id": "gliwice.rynek.pilastry",
+    "coordinates": [
+      50.29412,
+      18.66592
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.pilastry.4a",
+      "gliwice.pilastry.4b",
+      "gliwice.pilastry.intro",
+      "gliwice.pilastry.kamienica",
+      "gliwice.pilastry.hotel",
+      "gliwice.pilastry.dyrekcja",
+      "gliwice.pilastry.game"
+    ],
+    "displayed_name": "P(i)lasterki dla 18",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.pilastry.icon",
+    "introduction_audio": "audio.introduction.pilastry"
+  },
+  {
+    "waypoint_id": "gliwice.rynek.podcienie",
+    "coordinates": [
+      50.29441,
+      18.66583
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.podcienie.1",
+      "gliwice.podcienie.2",
+      "gliwice.podcienie.3",
+      "gliwice.podcienie.intro",
+      "gliwice.podcienie.boniowanie",
+      "gliwice.podcienie.game",
+      "gliwice.podcienie.game_explain"
+    ],
+    "displayed_name": "Rynek Galeria sztuki",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.podcienie.icon",
+    "introduction_audio": ""
+  },
+  {
+    "waypoint_id": "gliwice.rynek.rog",
+    "coordinates": [
+      50.29460,
+      18.66565
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.rog.1",
+      "gliwice.rog.3",
+      "gliwice.rog.intro",
+      "gliwice.rog.rzezba",
+      "gliwice.rog.gliwiczanka",
+      "gliwice.rog.2"
+    ],
+    "displayed_name": "Rynek Rzeźba na Rogu",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.rog.icon",
+    "introduction_audio": "audio.introduction.rog"
+  },
+  {
+    "waypoint_id": "gliwice.rynek.plebanska",
+    "coordinates": [
+      50.29466,
+      18.66539
+    ],
+    "zone_name": "Rynek",
+    "type": "station",
+    "exercises": [
+      "gliwice.plebanska.1",
+      "gliwice.plebanska.2",
+      "gliwice.plebanska.3",
+      "gliwice.plebanska.intro",
+      "gliwice.plebanska.niemiecka_nazwa",
+      "gliwice.plebanska.polaczenie",
+      "gliwice.plebanska.plebania",
+      "gliwice.plebanska.piwo",
+      "gliwice.plebanska.mieszkancy",
+      "gliwice.plebanska.restauracja",
+      "gliwice.plebanska.game"
+    ],
+    "displayed_name": "Portale na Plebańskiej",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.plebanska.icon",
+    "introduction_audio": "audio.introduction.plebanska"
+  },
+  {
+    "waypoint_id": "gliwice.synagoga.synagoga",
+    "coordinates": [
+      50.29536, 
+      18.66609
+    ],
+    "zone_name": "Synagoga",
+    "type": "station",
+    "exercises": [
+      "gliwice.synagoga.1",
+      "gliwice.synagoga.powstanie",
+      "gliwice.synagoga.noc",
+      "gliwice.synagoga.upamiętnienie",
+      "gliwice.synagoga.game"
+    ],
+    "displayed_name": "Synagoga",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.synagoga.icon",
+    "introduction_audio": "audio.introduction.synagoga"
+  },
+  {
+    "waypoint_id": "gliwice.synagoga.boniowanie",
+    "coordinates": [
+      50.29556, 
+      18.66642
+    ],
+    "zone_name": "Synagoga",
+    "type": "station",
+    "exercises": [
+      "gliwice.boniowanie.1",
+      "gliwice.boniowanie.kamienica",
+      "gliwice.boniowanie.game"
+    ],
+    "displayed_name": "Boniowanie",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.boniowanie.icon",
+    "introduction_audio": ""
+  },
+  {
+    "waypoint_id": "gliwice.caro.willa",
+    "coordinates": [
+      50.29566,
+      18.66708
+    ],
+    "zone_name": "Willa",
+    "type": "station",
+    "exercises": [
+      "gliwice.willa.1",
+      "gliwice.willa.2",
+      "gliwice.willa.3",
+      "gliwice.willa.budowa",
+      "gliwice.willa.wykonanie",
+      "gliwice.willa.muzeum",
+      "gliwice.willa.game"
+    ],
+    "displayed_name": "Willa Caro",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.willa.icon",
+    "introduction_audio": "audio.introduction.willa"
+  },
+  {
+    "waypoint_id": "gliwice.caro.lew",
+    "coordinates": [
+      50.29550, 
+      18.66704
+    ],
+    "zone_name": "Willa",
+    "type": "station",
+    "exercises": [
+      "gliwice.lew.cwiczenie",
+      "gliwice.lew.autor",
+      "gliwice.lew.otwarcie",
+      "gliwice.lew.huta",
+      "gliwice.lew.przeniesienie",
+      "gliwice.lew.wojna",
+      "gliwice.lew.game"
+    ],
+    "displayed_name": "Lew Czuwający",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.lew.icon",
+    "introduction_audio": "audio.introduction.lew"
+  },
+  {
+    "waypoint_id": "gliwice.poczta.poczta",
+    "coordinates": [
+      50.29413,
+      18.66824
+    ],
+    "zone_name": "Poczta",
+    "type": "station",
+    "exercises": [
+      "gliwice.poczta.motorical",
+      "gliwice.poczta.budowa",
+      "gliwice.poczta.wyglad",
+      "gliwice.poczta.wnetrze",
+      "gliwice.poczta.rozwoj",
+      "gliwice.poczta.cegla",
+      "gliwice.poczta.game"
+    ],
+    "displayed_name": "Poczta",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.poczta.icon",
+    "introduction_audio": "audio.introduction.poczta"
+  },
+  {
+    "waypoint_id": "gliwice.biala.herby",
+    "coordinates": [
+      50.29342,
+      18.66747
+    ],
+    "zone_name": "Ulica Białej Bramy",
+    "type": "station",
+    "exercises": [
+      "gliwice.herby.kamienica",
+      "gliwice.herby.plaskorzezba",
+      "gliwice.neptun.game"
+    ],
+    "displayed_name": "Kamienica z Herbami",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.herby.icon",
+    "introduction_audio": "audio.introduction.herby"
+  },
+  {
+    "waypoint_id": "gliwice.biala.brama",
+    "coordinates": [
+      50.29312,
+      18.66725
+    ],
+    "zone_name": "Ulica Białej Bramy",
+    "type": "station",
+    "exercises": [
+      "gliwice.brama.brama",
+      "gliwice.brama.zburzenie",
+      "gliwice.brama.ulice",
+      "gliwice.brama.czterokondygnacyjna",
+      "gliwice.brama.game"
+    ],
+    "displayed_name": "Biała Brama",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.brama.icon",
+    "introduction_audio": "audio.introduction.brama"
+  },
+  {
+    "waypoint_id": "gliwice.zamek.zamek",
+    "coordinates": [
+      50.29266,
+      18.66564
+    ],
+    "zone_name": "Zamek Piastowski",
+    "type": "station",
+    "exercises": [
+      "gliwice.zamek.powstanie",
+      "gliwice.zamek.zmiany",
+      "gliwice.zamek.muzeum",
+      "gliwice.zamek.game"
+    ],
+    "displayed_name": "Zamek Piastowski",
+    "navigation_audio": "",
+    "image": "image.station.gliwice.zamek.icon",
+    "introduction_audio": "audio.introduction.zamek"
+  }
+]

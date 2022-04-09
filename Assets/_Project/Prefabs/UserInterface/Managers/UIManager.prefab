@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5765766542769419090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5765766542769419100}
+  - component: {fileID: 5765766542769419101}
+  - component: {fileID: 5765766542769419103}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5765766542769419100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765766542769419090}
+  m_LocalRotation: {x: 0, y: -0.043706577, z: 0, w: 0.9990444}
+  m_LocalPosition: {x: 0, y: 0, z: 921}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -5.01, z: 0}
+--- !u!114 &5765766542769419101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765766542769419090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0df1f9029b0c646b54e3d74ae18b8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _viewsWithTypes:
+  - _type: 1
+    _viewObject: {fileID: 9036112084494244792, guid: b3bdfc8d52c15b54da8cbd23b212dbc8, type: 3}
+  - _type: 2
+    _viewObject: {fileID: 8645523682971676635, guid: 4b10ad64345df7742a292d63ca602c52, type: 3}
+  - _type: 3
+    _viewObject: {fileID: 3653481107199973404, guid: 9ec17b19bdc4b51429a56d9993125834, type: 3}
+  - _type: 4
+    _viewObject: {fileID: 7042579369187243563, guid: c2e29aaac4199724a94c7a1d0e291375, type: 3}
+  - _type: 5
+    _viewObject: {fileID: 3299041617227520345, guid: ec4c84d37ee06934c8edd9ed11ee8d2e, type: 3}
+  - _type: 6
+    _viewObject: {fileID: 4236247131902557666, guid: 1716fb6fcd835d14ba00076740c13f16, type: 3}
+  - _type: 7
+    _viewObject: {fileID: 5849364526658158313, guid: 861623c2d966c66488541ab2b7e74356, type: 3}
+  - _type: 8
+    _viewObject: {fileID: 7989400448830280468, guid: 47732870b4d5f614082c1eeea0468edf, type: 3}
+  - _type: 9
+    _viewObject: {fileID: 4005128606030570922, guid: b124b810b635b0d479fee40da1616cec, type: 3}
+  - _type: 10
+    _viewObject: {fileID: 7860262360221741274, guid: 8a9d1fa7f64399e4d8b647f1af7eb1f6, type: 3}
+  - _type: 11
+    _viewObject: {fileID: 3573382356736878937, guid: 80a6e75becad8ae47aa89a3bac3052a5, type: 3}
+  - _type: 12
+    _viewObject: {fileID: 6526166685358058173, guid: f73209bedebd0f941b7cabc2683d7748, type: 3}
+  - _type: 13
+    _viewObject: {fileID: 9144280535595931315, guid: 1cd0c461160325a45bfb0be7278aff3e, type: 3}
+  - _type: 14
+    _viewObject: {fileID: 8253613951774066612, guid: 9de382fba4e0a6c4580ac7db16c60ba6, type: 3}
+  - _type: 15
+    _viewObject: {fileID: 8506574226005045650, guid: f8bd7c548ec2b5a408917406bc70a578, type: 3}
+  - _type: 16
+    _viewObject: {fileID: 1475025764727148750, guid: 0fbf3a608a5ed09449e937124827e0bf, type: 3}
+--- !u!114 &5765766542769419103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765766542769419090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a50a73c6b440e4187b1cb94a4d63ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popupsWithTypes:
+  - type: 2
+    popupObject: {fileID: 2757631719445960665, guid: 9cff3488ec7671942ab70c572355f1e7, type: 3}
+  - type: 1
+    popupObject: {fileID: 1060768962498816989, guid: be7b253b1d080404998afc42af902cee, type: 3}
+  - type: 6
+    popupObject: {fileID: 4039301976141766111, guid: 4b3236f7c09a20e449aab408d703eec1, type: 3}
+  - type: 3
+    popupObject: {fileID: 4881134665168398715, guid: aab77e54508c6dd48934915c1185d2b4, type: 3}
+  - type: 4
+    popupObject: {fileID: 2819297846121355827, guid: 039a9413420f18c489949ef9f8a46c5e, type: 3}
+  - type: 5
+    popupObject: {fileID: 4755531572049870577, guid: 89c9e8e5b56d27d45954a86498964410, type: 3}
+  - type: 8
+    popupObject: {fileID: 8786352375839362815, guid: 02a1be6520eb69d47ae91f246b952005, type: 3}
+  - type: 9
+    popupObject: {fileID: 7495580405932343056, guid: 3bebbfbecd03c6e4ca233354e82cbed3, type: 3}

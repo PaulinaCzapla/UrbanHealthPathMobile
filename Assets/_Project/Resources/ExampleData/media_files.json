@@ -1,0 +1,544 @@
+﻿[
+  {
+    "media_id": "image.preview.gliwice.rynek",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/previews/gliwice_rynek"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie_1_1.Fontanna_Neptuna",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie_1_1.Fontanna_Neptuna"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie_2_1.Fontanna_Neptuna",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie_2_1.Fontanna_Neptuna"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie_3_1.Fontanna_Neptuna",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie_3_1.Fontanna_Neptuna"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie_4_1.Fontanna_Neptuna",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie_4_1.Fontanna_Neptuna"
+  },
+  {
+    "media_id": "image.station.gliwice.neptun.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_1_Fontanna_Neptuna"
+  },
+  {
+    "media_id": "audio.introduction.neptun",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_1"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_1B",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_1B"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_1A",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_1A"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_2",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_2"
+  },
+  {
+    "media_id": "audio.introduction.ratusz",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_2"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie5_Kosciol_Wszystkich_Swietych_2.Rzezba_Madonny",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie5_Kościol_Wszystkich_Swietych_2.Rzezba_Madonny"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie4_Budynek_Szarej_Chemii_2.Rzezba_Madonny",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie4_Budynek_Szarej_Chemii_2.Rzezba_Madonny"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie3_Ratusz_2.Rzezba_Madonny",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie3_Ratusz_2.Rzezba_Madonny"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie1_Okno_willi_caro_2.Rzezba_madonny",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie1_Okno_willi_caro_2.Rzezba_madonny"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_Miejska_Zdjecie2_Wieza_Budynku_Czerwonej_Chemii_2.Rzezba_Madonny",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_Miejska_Zdjecie2_Wieza_Budynku_Czerwonej_Chemii_2.Rzezba_madonny"
+  },
+  {
+    "media_id": "image.station.gliwice.ratusz.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_2_Rzezba_Madonny"
+  },
+  {
+    "media_id": "image.station.gliwice.arkady.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_3_Arkady"
+  },
+  {
+    "media_id": "image.station.gliwice.pilastry.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_4_PiLASTERKI_DLA_18tki"
+  },
+  {
+    "media_id": "image.station.gliwice.podcienie.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_5_Galeria_sztuki_w_podcieniach"
+  },
+  {
+    "media_id": "image.station.gliwice.rog.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_6_Rzezba_kobiety_broniacej_Gliwic"
+  },
+  {
+    "media_id": "image.station.gliwice.plebanska.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_7_Plebanska"
+  },
+  {
+    "media_id": "video.station.arkady.exercise.3a",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_3A"
+  },
+  {
+    "media_id": "video.station.arkady.exercise.3b",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_3B"
+  },
+  {
+    "media_id": "video.station.arkady.exercise.3c",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_3C"
+  },
+  {
+    "media_id": "video.station.podcienie.exercise.5a",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_5A"
+  },
+  {
+    "media_id": "video.station.podcienie.exercise.5b",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_5B"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_miejska_Zdjecie_6_Rzezba_kobiety_broniacej_Gliwic",
+    "type": "image",
+    "storage_type": "local",
+    "path": "image/game_images/Gra_miejska_Zdjecie_6_Rzezba_kobiety_broniacej_Gliwic"
+  },
+  {
+    "media_id": "audio.introduction.arkady",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_3"
+  },
+  {
+    "media_id": "audio.introduction.pilastry",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_4"
+  },
+  {
+    "media_id": "audio.introduction.rog",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_6"
+  },
+  {
+    "media_id": "audio.introduction.plebanska",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_7"
+  },
+  {
+    "media_id": "video.station.pilastry.exercise.4a",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_4A"
+  },
+  {
+    "media_id": "video.station.pilastry.exercise.4b",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_4B"
+  },
+  {
+    "media_id": "image.game.gliwice.pilastry.gra.miejska",
+    "type": "image",
+    "storage_type": "local",
+    "path": ""
+  },
+  {
+    "media_id": "video.station.plebaska.exercise.7a",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_7A"
+  },
+  {
+    "media_id": "video.station.plebaska.exercise.7b",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_7B"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_miejska_zdjecie_7.Plebanska",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjecie_7_Plebanska"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_miejska_zdjęcie1_3.Arkady",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjecie1_3.Arkady"
+  },
+  {
+    "media_id": "image.game.Gra_miejska_zdjęcieA_5.Galeria_sztuki",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcieA_5.Galeria_sztuki"
+  },
+  {
+    "media_id": "image.game.Gra_miejska_zdjęcieB_5.Galeria_sztuki",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcieB_5.Galeria_sztuki"
+  },
+  {
+    "media_id": "image.game.Gra_miejska_zdjęcieC_5.Galeria_sztuki",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcieC_5Galeria_sztuki"
+  },
+  {
+    "media_id": "image.game.Gra_miejska_zdjęcieD_5.Galeria_sztuki",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcieD_5_Galeria_sztuki"
+  },
+  {
+    "media_id": "image.station.gliwice.synagoga.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_8.Synagoga"
+  },
+  {
+    "media_id": "audio.introduction.synagoga",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_8"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_miejska_zdjęcie1_8.Synagoga",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie1_8.Synagoga"
+  },
+  {
+    "media_id": "image.game.gliwice.Gra_miejska_zdjęcie3_8.Synagoga",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie3_8.Synagoga"
+  },
+  {
+    "media_id": "image.station.gliwice.boniowanie.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_9.Boniowanie"
+  },
+  {
+    "media_id": "image.game.gliwice.willa.Gra_miejska_zdjęcie4_10.11.WILLA_Caro",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie4_10.11.WILLA_Caro"
+  },
+  {
+    "media_id": "image.game.gliwice.willa.Gra_miejska_zdjęcie3_10.11.WILLA_Caro",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie3_10.11.WILLA_Caro"
+  },
+  {
+    "media_id": "image.game.gliwice.willa.Gra_miejska_zdjęcie2_10.11.WILLA_Caro",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie2_10.11.WILLA_Caro"
+  },
+  {
+    "media_id": "image.game.gliwice.willa.Gra_miejska_zdjęcie1_10.11.WILLA_Caro",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie1_10.11.WILLA_Caro"
+  },
+  {
+    "media_id": "image.station.gliwice.willa.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punkt_10_11_Willa_Caro"
+  },
+  {
+    "media_id": "audio.introduction.willa",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_10+11"
+  },
+  {
+    "media_id": "audio.introduction.lew",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_12"
+  },
+  {
+    "media_id": "image.game.gliwice.lew.Gra_miejska_zdjęcie4_12.Lew_czuwający",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie4_12.Lew_czuwający"
+  },
+  {
+    "media_id": "image.game.gliwice.lew.Gra_miejska_zdjęcie3_12.Lew_czuwający",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie3_12.Lew_czuwający"
+  },
+  {
+    "media_id": "image.game.gliwice.lew.Gra_miejska_zdjęcie2_12.Lew_czuwający",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie2_12.Lew_czuwający"
+  },
+  {
+    "media_id": "image.game.gliwice.lew.Gra_miejska_zdjęcie1_12.Lew_czuwający",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_zdjęcie1_12.Lew_czuwający"
+  },
+  {
+    "media_id": "image.station.gliwice.lew.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_12.Lew_czuwający"
+  },
+  {
+    "media_id": "audio.introduction.poczta",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_13"
+  },
+  {
+    "media_id": "image.station.gliwice.poczta.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_13.Poczta"
+  },
+  {
+    "media_id": "image.game.gliwice.poczta.Gra_miejska_Zdjęcie2.Poczta",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie2.Poczta"
+  },
+  {
+    "media_id": "image.game.gliwice.poczta.Gra_miejska_Zdjęcie1.Poczta",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie1.Poczta"
+  },
+  {
+    "media_id": "image.game.gliwice.poczta.Gra_miejska_Zdjęcie3.Poczta",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie3.Poczta"
+  },
+  {
+    "media_id": "image.game.gliwice.poczta.Gra_miejska_Zdjęcie4.Poczta",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie4.Poczta"
+  },
+  {
+    "media_id": "audio.introduction.herby",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_14"
+  },
+  {
+    "media_id": "image.station.gliwice.herby.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_14.Kamienica_z_herbami"
+  },
+  {
+    "media_id": "image.game.gliwice.herby.Gra_miejska_Zdjęcie1.Kamienica",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie1.Kamienica"
+  },
+  {
+    "media_id": "image.game.gliwice.herby.Gra_miejska_Zdjęcie2.Kamienica",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie2.Kamienica"
+  },
+  {
+    "media_id": "image.game.gliwice.herby.Gra_miejska_Zdjęcie3.Kamienica",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie3.Kamienica"
+  },
+  {
+    "media_id": "image.game.gliwice.herby.Gra_miejska_Zdjęcie4.Kamienica",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie4.Kamienica"
+  },
+  {
+    "media_id": "image.station.gliwice.brama.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_15.Biala_Brama"
+  },
+  {
+    "media_id": "audio.introduction.brama",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_15"
+  },
+  {
+    "media_id": "audio.introduction.zamek",
+    "type": "audio",
+    "storage_type": "local",
+    "path": "audios/introductions/Audio_16+17"
+  },
+  {
+    "media_id": "image.station.gliwice.zamek.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Ikona_punktu_16_17Zamek_piastowski"
+  },
+  {
+    "media_id": "image.game.gliwice.zamek.Gra_miejska_Zdjęcie.Zamek_Piastowski",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/Gra_miejska_Zdjęcie.Zamek_Piastowski"
+  },
+  {
+    "media_id": "video.test.test_1",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/test/Test_1"
+  },
+  {
+    "media_id": "video.test.test_2",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/test/Test_2"
+  },
+  {
+    "media_id": "video.test.test_3",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/test/Test_3"
+  },
+  {
+    "media_id": "video.test.test_4",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/test/Test_4"
+  },
+  {
+    "media_id": "video.test.test_5",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/test/Test_5"
+  },
+  {
+    "media_id": "image.path.gliwice.centrum.icon",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/game_images/ratusz_ikona_rynek"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13A",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13A"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13B",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13B"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13C",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13C"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13D",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13D"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13E",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13E"
+  },
+  {
+    "media_id": "video.exercise.CWICZENIE_13F",
+    "type": "video",
+    "storage_type": "local",
+    "path": "videos/exercises/PUNKT_13F"
+  },
+  {
+    "media_id": "image.icon.rynek",
+    "type": "image",
+    "storage_type": "local",
+    "path": "images/icons/gliwice-rynek-ikona"
+  }
+]
+
+
