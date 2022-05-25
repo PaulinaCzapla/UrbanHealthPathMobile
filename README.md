@@ -33,7 +33,7 @@ Features:
 - Basic help system in case the user gets lost in the application interface.
 
 
-## Usage of library, plugins, etc .:
+## Usage of libraries, plugins, etc.:
 
 - Mapbox SDK for Unity - maps were created using Mapbox SDK for Unity. Map styles were created on the studio.mapbox.com website, where the colors were set and the map layers were displayed. In addition, due to the fact that the application uses specific points of interest and the health path itself, Mapbox Studio has been used to create data sets containing characteristic points and paths.
 - Device Simulator - this tool allowed us to check the operation and appearance of the application on various device models.
