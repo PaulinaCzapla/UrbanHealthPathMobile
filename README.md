@@ -12,7 +12,7 @@ Implementation:
 
 The aim of this interdisciplinary project was to create a mobile application supporting the physical rehabilitation of the elderly through their physical activation. A specially developed municipal health path is to be used for this purpose. The purpose of the application is to encourage the elderly to leave home and take up physical and intellectual activity through quizzes and interesting facts.
 
-##The main problems that had to be faced during the development of the application:
+## The main problems that had to be faced during the development of the application:
 - Developing the needs, limitations and requirements of people aged 60+. Adapting the application to these needs. This included both the appearance (size of elements, colors), but also functionality and navigation through the application.
 - Identify what can motivate the elderly to use the app and what spatial landmarks and app content will be appropriate.
 - Analysis of urban space in terms of its suitability for the rehabilitation of the elderly. Development of a map with points and a designated path and translating it into functionality in the application.
@@ -40,7 +40,7 @@ Features:
 - Cross Platform Native Plugins: Essential Kit (Free Version) - easy integration of the application with WhatsApp.
 - Newtonsoft JSON - support for the JSON format, which stores, among others, information about paths.
 
-#Application
+# Application
 ### Log in and main views
 
 ![image](https://user-images.githubusercontent.com/56382779/170338953-0facb5f9-c87c-4732-8e8d-22d365c9acda.png)
