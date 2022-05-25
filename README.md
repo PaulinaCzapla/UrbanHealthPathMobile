@@ -76,11 +76,3 @@ The application was created using the Unity Engine.
 ![image](https://user-images.githubusercontent.com/56382779/170339516-59741ad4-e8c1-4c65-94e2-4aea1e239cb4.png)
 
 
-
-
-The app is still in developing. In the future, the following functionalities are planned:
-- Login via google account
-- Inviting friends and organizing group events
-- More user profile features
-- Increasing the possibility of personalizing the application by different styles and sizes of fonts
-- Advanced tutorial system
