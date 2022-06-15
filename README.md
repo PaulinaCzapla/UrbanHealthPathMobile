@@ -3,7 +3,7 @@
 
 Urban Health Path is an interdisciplinary project created by Computer Science and Architecture students. The project was created in cooperation with physiotherapists.
 
-Implementation:
+Collaborators:
 - F4talErr0r
 - PaulinaCzapla
 - matadam667
