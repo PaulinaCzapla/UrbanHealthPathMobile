@@ -23,6 +23,7 @@ The aim of this interdisciplinary project was to create a mobile application sup
 The application was created using the Unity Engine.
 
 ## Features:
+- Logging in via google
 - Map with marked points and a path between them. The user's position is marked and the rotation of the phone is taken into account. The map can be zoomed in and out, moved and centered. It is possible to navigate to the first point of the track from any other point. Reaching a designated point is detected automatically.
 - The layout of the application is adapted to different types of smartphones (notches, front cameras, different screen sizes).
 - The interface is adapted to the needs of an elderly person.
